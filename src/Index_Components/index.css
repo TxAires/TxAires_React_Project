@@ -1,0 +1,124 @@
+/* Button & Text Box API_Project1.html */
+html {
+    height: 100vh;
+    /*vh significa View Height portanto 97vh is 97% do height do View/Browsers*/
+    display: flex;
+  }
+  
+body {
+    width: 100%;
+    height: 100vh;
+    min-height: 100vh;
+  }
+
+body{
+    background-color: #f5dee7;
+}
+
+/* Container Tdw_Project.html */
+
+.homeCat{
+    text-align: center;
+    align-content: center;
+    font-size: 12pt;
+    font-family: "Montserrat";
+    font-weight: 660;
+    padding: 10px;
+}
+
+#homeLink{
+    color: #ca2e7c;
+}
+
+#homeLink:hover{
+    text-decoration: none;
+    color: #f7a4c4;
+    border-left: 1px solid #f7a4c4;
+    border-right: 1px solid #f7a4c4;
+    padding: 5px 10px;
+}
+
+.logoCat{
+    width: 60px;
+    height: 64px;
+    margin: 8px;
+}
+
+.container{
+    align-content: center;
+    align-items: center;
+    width: 688px;
+    height: 452px;
+}
+
+.card{
+    border: none;
+}
+
+.card-title{
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2em;
+    color: #ca2e7c;
+}
+
+#card-h3{
+    font: italic 18px "Montserrat";
+    font-weight: 300;
+    color: #e34d79;
+    padding-top: 10%;
+    text-align: center;
+
+}
+
+.card-text{
+    font: italic 18px "Montserrat";
+    font-weight: 300;
+    color: #e34d79;
+    text-align: center;
+
+}
+
+.card-text2{
+    font: italic 17px "Montserrat";
+    padding-top: 2%;
+    font-weight: 600;
+    color: #e34d79;
+    text-align: center;
+}
+
+.Div_Button{
+    padding: 5%;
+}
+
+#buttonHome{
+    color: #e34d79;
+    font: 18px "Montserrat";
+    background-color: #f7a4c4;
+    width: 228px;
+    height: 51px;
+    outline: none;
+    border: none;
+    border-bottom: solid 3px #ca2e7c;
+    border-right: solid 3px #ca2e7c;
+
+}
+
+#buttonHome:hover{
+    color: #f7a4c4;
+    font: 18px "Montserrat";
+    background-color: #e34d79;
+    width: 228px;
+    height: 51px;
+    outline: none;
+    border: none;
+    border-bottom: solid 3px #f7a4c4;
+    border-right: solid 3px #f7a4c4;
+    font-weight: 800;
+    
+}
+#buttonHome:active{
+    font: italic 18px "Montserrat";
+}
+/* End of Container Tdw_Project.html */
