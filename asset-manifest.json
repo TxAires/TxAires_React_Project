@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TxAires_React_Project/static/css/main.a1a101af.css",
+    "main.js": "/TxAires_React_Project/static/js/main.b1d86b6d.js",
+    "static/media/icon_home_cat.png": "/TxAires_React_Project/static/media/icon_home_cat.15c9264dd146c95faf48.png",
+    "index.html": "/TxAires_React_Project/index.html",
+    "main.a1a101af.css.map": "/TxAires_React_Project/static/css/main.a1a101af.css.map",
+    "main.b1d86b6d.js.map": "/TxAires_React_Project/static/js/main.b1d86b6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a101af.css",
+    "static/js/main.b1d86b6d.js"
+  ]
+}
